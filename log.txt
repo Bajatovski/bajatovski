@@ -1,0 +1,7 @@
+$ git log
+commit 8077d450dfcb5337c2e9cebc878a320d8712d2b3 (HEAD -> logging, master)
+Author: unknown <janaki.bajatovski@students.finki.ukim.mk>
+Date:   Fri Mar 23 16:04:12 2018 +0100
+
+    Initial commit
+
